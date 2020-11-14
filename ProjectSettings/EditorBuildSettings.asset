@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/FemaleScene_Front_Camera.unity
+    guid: 60c984c9c512244c0a330f8dcace3773
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/UIscene.unity
+    guid: 99f485da1fe911f4c8c4895d6e9351cc
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 8a716d3fb8e5e4299972e0902ded4171,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 8ac12ebd0ab124e45a8230773350ba37,
+      type: 2}
+    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: ae6d46e9be76140ceaf259cd72086942,
+      type: 2}
+    com.unity.xr.management.arkit_loader: {fileID: 11400000, guid: ad5ac06c012d447f7bcaad724d85d3b2,
+      type: 2}
